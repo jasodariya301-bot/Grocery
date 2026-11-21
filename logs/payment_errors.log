@@ -1,0 +1,42 @@
+[20-Apr-2026 17:02:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from C:\laragon\www\Grocery-website\ajax\initiate_payment.php on line 2) in C:\laragon\www\Grocery-website\ajax\initiate_payment.php on line 8
+[20-Apr-2026 17:02:30 UTC] === Payment Initiation Request ===
+[20-Apr-2026 17:02:30 UTC] POST Data: Array
+(
+    [name] => dasfa
+    [mobile] => 1234567890
+    [email] => Q@gmail.com
+    [address] => adfsgdgh
+    [city] => adsf
+    [pincode] => 123456
+    [payment_method] => Online
+)
+
+[20-Apr-2026 17:02:30 UTC] Session User ID: 23
+[20-Apr-2026 17:02:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from C:\laragon\www\Grocery-website\ajax\initiate_payment.php on line 2) in C:\laragon\www\Grocery-website\ajax\initiate_payment.php on line 8
+[20-Apr-2026 17:02:57 UTC] === Payment Initiation Request ===
+[20-Apr-2026 17:02:57 UTC] POST Data: Array
+(
+    [name] => dD
+    [mobile] => 1234567890
+    [email] => ada@gamil.com
+    [address] => asf
+    [city] => fasf
+    [pincode] => 123456
+    [payment_method] => Online
+)
+
+[20-Apr-2026 17:02:57 UTC] Session User ID: 23
+[20-Apr-2026 17:03:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from C:\laragon\www\Grocery-website\ajax\initiate_payment.php on line 2) in C:\laragon\www\Grocery-website\ajax\initiate_payment.php on line 8
+[20-Apr-2026 17:03:11 UTC] === Payment Initiation Request ===
+[20-Apr-2026 17:03:11 UTC] POST Data: Array
+(
+    [name] => dD
+    [mobile] => 1234567890
+    [email] => ada@gamil.com
+    [address] => asf
+    [city] => fasf
+    [pincode] => 123456
+    [payment_method] => Online
+)
+
+[20-Apr-2026 17:03:11 UTC] Session User ID: 23
